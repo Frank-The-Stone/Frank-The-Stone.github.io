@@ -1,3 +1,4 @@
 var frank = document.getElementById("Frank");
 
-frank.style.marginLeft = '150px';
+frank.style.marginLeft = '50%';
+frank.style.marginTop = '50%';
