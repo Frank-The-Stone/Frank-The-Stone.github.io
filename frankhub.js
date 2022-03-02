@@ -1,6 +1,6 @@
 var frank = document.getElementById("Frank");
 
-frank.style.marginLeft = '50%';
-frank.style.marginTop = '50%';
+frank.style.marginLeft = '500px';
+frank.style.marginTop = '250px';
 
 console.log(frank);
